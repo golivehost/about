@@ -8,7 +8,7 @@ At Go Live Web Solutions, we focus on offering innovative, secure, and scalable 
 Our mission is to empower businesses and individuals by providing top-notch web services that ensure reliability, security, and performance. We strive to make the digital world a safer and more efficient space for our clients.
 
 ## Our Partnership
-We are proudly partnered with [GoSecureDNS](https://www.gosecuredns.de/), a leader in providing advanced security solutions for the online world. This partnership allows us to offer enhanced protection and security for all our clients, ensuring peace of mind while using our services.
+We are proudly partnered with [GoSecureDNS](https://www.gosecuredns.org/), a leader in providing advanced security solutions for the online world. This partnership allows us to offer enhanced protection and security for all our clients, ensuring peace of mind while using our services.
 
 ## Why Choose Us?
 - **Innovative Solutions**: We provide cutting-edge web solutions that evolve with the needs of your business.
